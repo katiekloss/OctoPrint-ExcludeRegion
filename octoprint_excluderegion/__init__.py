@@ -150,11 +150,11 @@ class ExcludeRegionPlugin(  # pylint: disable=too-many-instance-attributes
                 displayVersion=self._plugin_version,
 
                 type="github_release",
-                user="bradcfisher",
+                user="katiekloss",
                 repo="OctoPrint-ExcludeRegionPlugin",
                 current=self._plugin_version,
 
-                pip="https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin/archive/{target_version}.zip"  # nopep8
+                pip="https://github.com/katiekloss/OctoPrint-ExcludeRegionPlugin/archive/{target_version}.zip"  # nopep8
             )
         )
 

@@ -1,3 +1,7 @@
+## [0.3.1] - 2022-12-03
+
+This is a hotfix release to allow installation on systems running Python 3.10, along with
+changing to a new maintainer.
 
 ## [0.3.0] - 2020/11/17
 

@@ -39,7 +39,7 @@ Some things to note about this plugin:
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin/archive/master.zip
+    https://github.com/katiekloss/OctoPrint-ExcludeRegion/archive/release.zip
 
 ## Usage
 
@@ -370,3 +370,6 @@ This command is useful to re-enable exclusion processing at the end of start and
 The default configuration for this command permits specifying additional arguments following the
 `enable`/`on` parameter keyword.  For example:  `@ExcludeRegion enable After start Gcode`.
 This is purely for documentation/logging purposes and is otherwise ignored by the plugin.
+
+## Credits
+Thanks to Brad Fisher (@bradcfisher) for creating and refining this plugin!

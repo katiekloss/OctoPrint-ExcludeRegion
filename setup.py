@@ -14,20 +14,20 @@ plugin_package = "octoprint_excluderegion"
 plugin_name = "OctoPrint-ExcludeRegionPlugin"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "0.3.0"
+plugin_version = "0.3.1"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
 plugin_description = """Adds the ability to prevent printing within rectangular or circular regions of the currently active gcode file"""
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Brad Fisher"
+plugin_author = "Katie Kloss, based on work by Brad Fisher"
 
 # The plugin's author's mail address.
-plugin_author_email = "bradcfisher@hotmail.com"
+plugin_author_email = "kloss.katherine@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/bradcfisher/OctoPrint-ExcludeRegionPlugin"
+plugin_url = "https://github.com/katiekloss/OctoPrint-ExcludeRegion"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
